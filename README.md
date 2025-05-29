@@ -61,7 +61,6 @@ Screenshots of each SQL query output are saved in the  folder.
 
 ## 📈 Key Insights:
 - Mobile users generate higher average order values.
-- Organic search brings the highest number of sessions.
 - A small percentage of customers contribute to the majority of sales.
 
 ## 🔗 Submission:
