@@ -4,14 +4,11 @@ SQL-based analysis of an E-Commerce dataset using MySQL — includes queries, sc
 # 📊 Task 3: SQL for Data Analysis
 
 ## ✅ Objective:
-To analyze structured eE-ommerce sales data using SQL queries and extract meaningful insights for business understanding.
-
----
+To analyze structured E-Commerce sales data using SQL queries and extract meaningful insights for business understanding.
 
 ## 📁 Dataset:
 *Name:* Ecommerce Sales Data  
 *Source:* Kaggle  
-*Format:* CSV file 
 
 ## 🧰 Tools Used:
 - DB Browser for MYSQL
